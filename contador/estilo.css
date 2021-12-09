@@ -1,0 +1,40 @@
+body{
+    background: rgb(127, 127, 231);
+    font: normal 15pt Arial;
+    font-family: monospace;
+
+}
+
+header{
+    color: white;
+    text-align: center;
+
+}
+
+section{
+    background: white;
+    border-radius: 10px; /* PARA DEIXAR A BORA ARREDONDADA*/
+    padding: 80px;  /*ESPAÇO */
+    width: 500px; /* largura*/
+    margin: auto; /* centralizar no meio da tela*/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.493);  /* sombra */
+    font: normal 15pt Arial;
+    text-align: left;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
+
+h2{
+    font-size: 20px;
+}
+
+.butao{
+    padding: 10px;
+    font-size: 15px;
+    width: 100px;
+}
